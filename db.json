@@ -1,0 +1,44 @@
+{
+  "productos": [
+    {
+      "nombre": "helles ",
+      "precio": 100,
+      "id": 11
+    },
+    {
+      "nombre": "cerveza escudo 2",
+      "precio": "10",
+      "id": 13
+    },
+    {
+      "nombre": "jugo de mandarina con sabor a fresa",
+      "precio": "300",
+      "creado": "10/6/2020",
+      "id": 14
+    },
+    {
+      "nombre": "paulanner helles",
+      "precio": "200",
+      "creado": "10/6/2020",
+      "id": 15
+    },
+    {
+      "nombre": "coca cola",
+      "precio": 200,
+      "creado": "10/6/2020",
+      "id": 16
+    },
+    {
+      "nombre": "fanta",
+      "precio": 20,
+      "creado": "10/6/2020",
+      "id": 17
+    },
+    {
+      "nombre": "sprite",
+      "precio": "20",
+      "creado": "10/6/2020",
+      "id": 18
+    }
+  ]
+}
